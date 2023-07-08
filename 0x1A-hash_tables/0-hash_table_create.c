@@ -1,11 +1,9 @@
 /*
- * File: 0-hash_table_create.c
- * Auth: fatimaezahrae graini
- */
+ * File: 0-hash_table_creat.C
+ 
 
 #include "hash_tables.h"
-
-/**
+/*
  * hash_table_create - Creates a hash table.
  * @size: The size of the array.
  *
